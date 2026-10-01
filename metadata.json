@@ -1,0 +1,8 @@
+{
+  "name": "80'ler: Kaseti Geri Sar",
+  "description": "1980'ler Türkiye'sinde interaktif bir nostalji odası deneyimi. Tüplü televizyon, kasetçalar, VHS kasetleri, atari, çevirmeli telefon, duvar takvimi ve mahalle hatıraları.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
